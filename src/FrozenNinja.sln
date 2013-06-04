@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connector", "Connector\Connector.csproj", "{B330A9A1-5350-45D5-827B-F377CF479D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connector.Test", "Connector.Test\Connector.Test.csproj", "{86DD3900-4261-4C12-82DB-7E5A0027323C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extras", "Extras\Extras.csproj", "{F56CC269-9B22-4BD3-8CB8-98AC5C4F354E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B330A9A1-5350-45D5-827B-F377CF479D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B330A9A1-5350-45D5-827B-F377CF479D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B330A9A1-5350-45D5-827B-F377CF479D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B330A9A1-5350-45D5-827B-F377CF479D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DD3900-4261-4C12-82DB-7E5A0027323C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DD3900-4261-4C12-82DB-7E5A0027323C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DD3900-4261-4C12-82DB-7E5A0027323C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DD3900-4261-4C12-82DB-7E5A0027323C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56CC269-9B22-4BD3-8CB8-98AC5C4F354E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56CC269-9B22-4BD3-8CB8-98AC5C4F354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56CC269-9B22-4BD3-8CB8-98AC5C4F354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56CC269-9B22-4BD3-8CB8-98AC5C4F354E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
